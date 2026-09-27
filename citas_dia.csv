@@ -1,0 +1,51 @@
+paciente,especialidad,costo_base
+Ana Lucia Perez,Cardiologia,150.00
+Jorge Tejada,Medicina General,-80.00
+Maria Gomez,,120.00
+Luis Fernandez,Pediatria,90.00
+Carlos Ramirez,Odontologia,ErrorTipografico
+Luciana Castro,Pediatria,100.00
+Miguel Angel Ruiz,Traumatologia,180.00
+Sofia Vargas,Neurologia,200.00
+Mateo Rojas,Medicina General,60.00
+Valentina Silva,,110.00
+Diego Morales,Odontologia,130.00
+Camila Flores,Pediatria,-45.00
+Joaquin Mendoza,Cardiologia,160.00
+Valeria Rios,Dermatologia,140.00
+Santiago Ortiz,Ginecologia,NoDisponible
+Mariana Castillo,Traumatologia,190.00
+Lucas Navarro,Medicina General,75.00
+Isabella Salazar,Oftalmologia,125.00
+Sebastian Cruz,,85.00
+Natalia Paredes,Cardiologia,155.00
+Facundo Herrera,Odontologia,-120.00
+Antonella Vega,Pediatria,95.00
+Tomas Iglesias,Dermatologia,115.00
+Romina Suarez,Neurologia,210.00
+Martin Espinoza,Medicina General,FaltaDato
+Gabriela Castro,Ginecologia,145.00
+Alejandro Pinto,Traumatologia,175.00
+Daniela Medina,,135.00
+Nicolas Aguilar,Oftalmologia,-90.00
+Martina Blanco,Pediatria,105.00
+Emilio Guzman,Cardiologia,165.00
+Julieta Bravo,Medicina General,70.00
+Rodrigo Vidal,Dermatologia,Gratis
+Renata Campos,Odontologia,140.00
+Benjamin Leon,,150.00
+Victoria Peña,Neurologia,-200.00
+Felipe Fuentes,Ginecologia,130.00
+Samantha Cabrera,Traumatologia,185.00
+Andres Soto,Oftalmologia,120.00
+Alonso Reyes,Pediatria,TextoInvalido
+Ximena Delgado,Medicina General,65.00
+Hugo Valenzuela,Cardiologia,170.00
+Catalina Miranda,,145.00
+Maximiliano Luna,Dermatologia,-110.00
+Bianca Cordova,Odontologia,125.00
+Fernando Pacheco,Neurologia,220.00
+Paulina Arce,Ginecologia,155.00
+Julian Rivas,Traumatologia,CientoOchenta
+Elena Villanueva,Pediatria,98.00
+Ricardo Montes,Medicina General,80.00
